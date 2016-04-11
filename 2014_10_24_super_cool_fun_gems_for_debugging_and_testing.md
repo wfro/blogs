@@ -1,4 +1,4 @@
-> This was originally published in Ocotber of 2014.
+> This was originally published in October of 2014.
 
 One lesson learned early on in application development is that it's not just about writing your own code, it's about knowing when to use existing libraries.
 For our purposes we'll define a library (a 'gem' in the wonderful world of Ruby) as simply a collection of resources (including source code) written by someone else that we can use in our own programming endeavours.
