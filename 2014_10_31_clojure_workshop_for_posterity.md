@@ -50,8 +50,7 @@ The main high level things to take away:
 
 - Clojure is a lisp dialect and has a uniform structure of `(operand operator1 operator2 ...)`
 - Clojure's data structures are immutable
-- Clojure is very good at concurrency; in general mutation is problematic for
-  multi-threaded programs.
+- Clojure is very good at concurrency; Mutation is problematic for programs accessing shared data structures.
 - 'Pure functions' always return the same value given the same input.
 - The goal in functional programming is to make it easy to predict how a program
   will behave based on functions not caring about the 'state of the world'.
